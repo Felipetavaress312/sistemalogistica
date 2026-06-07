@@ -1,0 +1,13 @@
+{
+  "curso": "Ciência da Computação / Sistemas de Informação",
+  "disciplina": "Orientação a Objetos",
+  "tema_escolhido": "3",
+  "linguagem": "TypeScript",
+  "gerenciador_dependencias": "NPM",
+  "integrantes": [
+    {"nome": "Integrante 1", "github_username": "integrante1"},
+    {"nome": "Integrante 2", "github_username": "integrante2"},
+    {"nome": "Integrante 3", "github_username": "integrante3"},
+    {"nome": "Integrante 4", "github_username": "integrante4"}
+  ]
+}
