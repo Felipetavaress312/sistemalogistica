@@ -225,5 +225,5 @@ A cada `push` ou `pull_request` para `main`:
 |---|---|
 | Felipe Tavares | [@Felipetavaress312](https://github.com/Felipetavaress312) |
 | Eduardo Henrique | [@edupcsdev](https://github.com/edupcsdev) |
-
+| José Luiz | [@joselzz07](https://github.com/joselzz07) |
 | Paulo Henrique | [@dev-paulo07](https://github.com/dev-paulo07) |
