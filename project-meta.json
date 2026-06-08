@@ -1,6 +1,6 @@
 {
-  "curso": "Ciência da Computação / Sistemas de Informação",
-  "disciplina": "Orientação a Objetos",
+  "curso": "Ciência da Computação / Projeto de progamação",
+  "disciplina": "Projeto de programação",
   "tema_escolhido": "3",
   "linguagem": "TypeScript",
   "gerenciador_dependencias": "NPM",
