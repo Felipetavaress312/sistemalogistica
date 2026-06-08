@@ -223,7 +223,7 @@ A cada `push` ou `pull_request` para `main`:
 
 | Nome | GitHub |
 |---|---|
-| Felipe Tavares | [@integrante1](https://github.com/Felipetavaress312) |
+| Felipe Tavares | [@Felipetavaress312](https://github.com/Felipetavaress312) |
 | Integrante 2 | [@integrante2](https://github.com/integrante2) |
 | Integrante 3 | [@integrante3](https://github.com/integrante3) |
 | Integrante 4 | [@integrante4](https://github.com/integrante4) |
