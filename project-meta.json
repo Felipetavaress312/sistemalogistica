@@ -5,9 +5,9 @@
   "linguagem": "TypeScript",
   "gerenciador_dependencias": "NPM",
   "integrantes": [
-    {"nome": "Integrante 1", "github_username": "integrante1"},
-    {"nome": "Integrante 2", "github_username": "integrante2"},
-    {"nome": "Integrante 3", "github_username": "integrante3"},
-    {"nome": "Integrante 4", "github_username": "integrante4"}
+    {"nome": "Felipe gabriel de lemos aciole tavares", "github_username": "Felipetavaress312"},
+    {"nome": "Eduardo henrique paes costa da silva", "github_username": "edupcsdev"},
+    {"nome": "Pauio henrique castro moraes filho", "github_username": "dev-paulo07"},
+    {"nome": "José luis jacinto santos", "github_username": "joselzz07"}
   ]
 }
