@@ -111,7 +111,7 @@ poo-pbl-grupo-lastmile/
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/SEU_USUARIO/poo-pbl-grupo-lastmile.git](https://github.com/Felipetavaress312/sistemalogistica.git)
+git clone (https://github.com/Felipetavaress312/sistemalogistica.git)
 cd sistemalogistica
 
 # Instale as dependências
